@@ -1,4 +1,4 @@
-![logo](https://github.com/ThesanduJ/ThesanduJ/blob/main/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)
+![logo](225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=salesp07.salesp07" />
 
 <h1 align="center">
@@ -37,7 +37,7 @@
 
 <br/><br/>
 
-<hr/>
+![logo](212284100-561aa473-3905-4a80-b561-0d28506553ee.gif)
 
 <br/>
 
