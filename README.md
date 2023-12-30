@@ -15,7 +15,7 @@
  
  🌱 I’m currently learning Design patterns and Architectures
 
-⚡ Fun fact **Did you know that a single cloud can weigh more than 1 million pounds? 
+⚡ Fun fact **Did you know that a single cloud can weigh more than 1 million pounds?** 
 
  </div>
  
