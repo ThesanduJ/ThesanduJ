@@ -18,13 +18,18 @@
 ⚡ Fun fact **Did you know that a single cloud can weigh more than 1 million pounds?** 
 
  </div>
- 
-
-
 <hr/>
 
-<br/>
 
+<h2 align="center">⚡ Stats ⚡</h2>
+<br>
+<div align=center>
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thesanduj&show_icons=true&locale=en" alt="thesanduj" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thesanduj&" alt="thesanduj" /></p>
+
+</div>
+<hr/>
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
