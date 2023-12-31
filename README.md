@@ -35,7 +35,7 @@
   <br>
   <img alt="snake eating my contributions" src="https://github.com/ThesanduJ/ThesanduJ/blob/output/github-contribution-grid-snake.gif" />
   
-  <br/><br/><br/>
+  
 </div>
 <br/><br/>
 
