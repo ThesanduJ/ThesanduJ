@@ -13,7 +13,7 @@
  
  🔭 I’m currently working on layered-architecture
  
- 🌱 I’m currently learning Design patterns and Architectures
+ 🌱 I’m currently learning Internet Technologies
 
 ⚡ Fun fact **Did you know that a single cloud can weigh more than 1 million pounds?** 
 
